@@ -1,6 +1,6 @@
 # PYTHON-DAF
 Plays audio back to you with a delay.
-There were no decent alternatives to the paid apps.
+There were no decent alternatives to the paid software on windows.
 
 
 For more info about DAF, go to: https://en.wikipedia.org/wiki/Delayed_Auditory_Feedback
